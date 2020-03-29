@@ -1,4 +1,4 @@
-# Game Name
+# Fury Chase
 
 ## Elevator Pitch
 
