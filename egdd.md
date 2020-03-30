@@ -2,19 +2,19 @@
 
 ## Elevator Pitch
 
-*Players will be challenged through addictive gameplay to drive their car as far as they can without breaking it down. Other similar games focus mainly on the player's reflexes, but we believe that by incorporating educational problems, the player will have a more meaningful experience.
+Players will be challenged through addictive gameplay to drive their car as far as they can without breaking it down. Other similar games focus mainly on the player's reflexes, but we believe that by incorporating educational problems, the player will have a more meaningful experience.
 
 ## Influences (Brief)
 
 - Subway Surfer:
- - Medium: Game
- - Explanation: This game is an influence because it is quite addictive running through a trainyard with the intention of getting a high score. As your character runs, the pace of the game increases making it more challenging and likely that the player will run into an obstacle and get caught by the guard.
+  - Medium: Game
+  - Explanation: This game is an influence because it is quite addictive running through a trainyard with the intention of getting a high score. As your character runs, the pace of the game increases making it more challenging and likely that the player will run into an obstacle and get caught by the guard.
 - Guitar Hero:
   - Medium: Game
   - Explanation: This game is an influence because the objective of the game is to select the correct notes; otherwise, the player's score will suffer. Long Drive would work somewhat similar, except instead of notes the player would have to drive through the correct answer to the question given at that moment.
 - Temple Run
- - Medium: game
- - Explanation: Temple Run is an influence because in this game players progress through a course with various obstacles that the player must maneuver around. In our game, our players would progress through the course however the obstacles will be math problems. Players can choose which problem they want to do, and if they can not complete the problem in the given time, then their vehicle will break down similar to a collision in Temple Run. 
+  - Medium: game
+  - Explanation: Temple Run is an influence because in this game players progress through a course with various obstacles that the player must maneuver around. In our game, our players would progress through the course however the obstacles will be math problems. Players can choose which problem they want to do, and if they can not complete the problem in the given time, then their vehicle will break down similar to a collision in Temple Run. 
 
 ## Core Gameplay Mechanics (Brief)
 
