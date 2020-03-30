@@ -130,7 +130,6 @@ The user can press the left and right arrow button to move the car. They can als
 
 - If the player drives through the correct answer, the number will highlight green. 
 - If the player drives through the wrong answer, the number will highlight red.
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
 - The score will act as a long term indicator of the player’s improvement. As the player gets better with the arithmetic, their score will progressively increase.
 
 # Story and Gameplay
