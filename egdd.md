@@ -150,11 +150,13 @@ The player will learn through repetition. By seeing similar problems over and ov
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
 
+
 # Assets Needed
 
 ## Aesthetics
 
-It will be a fun 2d top down driving game.
+The game will be similar in aesthetics to subway surfer. We want it to be visually appealing with colors that are not too harsh (i.e a black and white game with red numbers). In terms of gameplay it will be most similar to ‘Cars’ which is another top down 2d driving game in which the player avoids the obstacles on the road for as long as possible.
+
 
 ## Graphical
 
