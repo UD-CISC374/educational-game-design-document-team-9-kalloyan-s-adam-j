@@ -144,7 +144,7 @@ The player will learn through repetition. By seeing similar problems over and ov
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+Players use the arrow keys to maneuver their vehicle into the correct answer to the problem presented at the top of the screen. The player also must avoid the cones and other obstacles along the track. If the player collides with the incorrect answer, the car suffers a hit (one flat tire). There are 3 lives until the car can no longer drive and the game is over.  
 
 ## Storyboarding
 
