@@ -152,17 +152,23 @@ By playing the mini games and going through the story, the player should be able
 
 ## Story (Brief)
 
+<<<<<<< HEAD
 In the late 1840's a family's home burns down and they can't afford the repairs or buy a new one, so they head West in search of opportunity. Along their journey, they hunt some beavers to get enough money for the whole journey. They take a train, but are forced to stop at the Mississipi River. They sail across the river and run into Native Americans. In exhange for horses, the family teaches the Native Americans how to farm. When they finally reach the West Coast (California), their hardship pays off because they find enough gold in a stream to give them the life they could only dream of.
+=======
+Players use the arrow keys to maneuver their vehicle into the correct answer to the problem presented at the top of the screen. The player also must avoid the cones and other obstacles along the track. If the player collides with the incorrect answer, the car suffers a hit (one flat tire). There are 3 lives until the car can no longer drive and the game is over.  
+>>>>>>> 49fe0f60aadbce866d8627862bc5b91ade3ae1b2
 
 ## Storyboarding
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
 
+
 # Assets Needed
 
 ## Aesthetics
 
-It will be a fun 2d top down driving game.
+The game will be similar in aesthetics to subway surfer. We want it to be visually appealing with colors that are not too harsh (i.e a black and white game with red numbers). In terms of gameplay it will be most similar to ‘Cars’ which is another top down 2d driving game in which the player avoids the obstacles on the road for as long as possible.
+
 
 ## Graphical
 
