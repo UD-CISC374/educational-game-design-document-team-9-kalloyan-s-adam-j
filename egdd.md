@@ -1,150 +1,158 @@
-# Long Drive
+# Journey West
 
 ## Elevator Pitch
 
-Players will be challenged through addictive gameplay to drive their car as far as they can without breaking it down. Other similar games focus mainly on the player's reflexes, but we believe that by incorporating educational problems, the player will have a more meaningful experience.
+Players will get to experience the life of a poor family traveling west in the late 1840's in search of a better opportunity. The goal of the game is to give the player the feeling of what it may have been like to live during that time period through various mini games. There are not many other similar games regarding Manifest Destiny, but the ones that actually exist target an older audience and place a greater emphasis of the hardships of the time.
 
 ## Influences (Brief)
-
+- Oregon Trail
+  - Medium: Game
+  - Explanation: This game is an influence because it tells a similar story of migration during the time of Manifest Destiny. However, this game differs because it takes a more serious approach of the time and places greater emphasis on the difficulty settlers had to face.
 - Subway Surfer:
   - Medium: Game
-  - Explanation: This game is an influence because it is quite addictive running through a trainyard with the intention of getting a high score. As your character runs, the pace of the game increases making it more challenging and likely that the player will run into an obstacle and get caught by the guard.
-- Guitar Hero:
-  - Medium: Game
-  - Explanation: This game is an influence because the objective of the game is to select the correct notes; otherwise, the player's score will suffer. Long Drive would work somewhat similar, except instead of notes the player would have to drive through the correct answer to the question given at that moment.
+  - Explanation: This game is an influence because it is quite addictive running through a trainyard with the intention of getting a high score. As your character runs, the pace of the game increases making it more challenging and likely that the player will run into an obstacle and get caught by the guard. It serves as inspiration for one of the mini games.
 - Temple Run
   - Medium: game
-  - Explanation: Temple Run is an influence because in this game players progress through a course with various obstacles that the player must maneuver around. In our game, our players would progress through the course however the obstacles will be math problems. Players can choose which problem they want to do, and if they can not complete the problem in the given time, then their vehicle will break down similar to a collision in Temple Run. 
+  - Explanation: Temple Run is an influence because in this game players progress through a course with various obstacles that the player must maneuver around. In our game, one of the mini games would be to sail a boat down the Mississip River while avoiding obstacles.
 
 ## Core Gameplay Mechanics (Brief)
 
-- Use the arrow keys to move the car
-- The more miles(score) the player drives, the faster the problems will appear
-- When the player runs into an answer that is incorrect, a wreck occurs
-- 3 wrecks and the game is over
-- The player has no control of the speed of the car
-- The types of problems will depend on the chosen difficulty
-- Easy difficulty will include addition and subtraction
-- Medium difficulty will add multiplication
-- Hard difficulty will add multiplication and division
+- Mini game 1:
+  - Use the mouse to catch beavers
+  - Beavers move across the screen
+- Mini game 2:
+  - Sail a boat using the arrow keys
+  - Crashing into obstacles will damage the boat
+  - Obstacles will float down vertically
+- Mini game 3:
+  - Crops will grow over time
+  - Animals will eat the crops
+  - Click on the animals to scare them away from the crops
+- Mini game 4:
+  - Use the right and left arrow keys to move a pan
+  - Gold and other debris will flow down a stream
+  - When a piece of gold collides with the pan it will be collected
+- General
+  - Select point on map to start level
+  - Progress through game be beating the mini games
 
 # Learning Aspects
 
 ## Learning Domains
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
+-Migration West in the 1800's 
+-Idea of Manifest Destiny
 
 ## Target Audiences
 
-- K-5 audience
- - this can work because of the different difficulties that the game offers.
+- 1st grade - 3rd grade because the game will feature light hearted mini games to tell a story
 
 ## Target Contexts
 
-- The game will be used to complement the teacher’s material. It could be used in class when the students have a base understanding of the different topics.
-- The teacher could assign it for homework by having the students reach a specific score for the night.
+- The game will be used to complement the teacher’s material by having the students actually experience some of the material being discussed in social studies pertaining to the topic.
+- Kids could also play it in their free time. 
 
 ## Learning Objectives
 
-By the end of the lesson, the player will be able to correctly solve at least 90% of the basic addition, subtraction, multiplication, and division problems that they are given.
+- By the end of the game, the player will be able to explain why migration West was desired during that time period.
+- By the end of the game, the player will be able to identify how life was different back then compared to today.
+- By the end of the game, the player will discover some of the opportunities of the time period.
+- By the end of the game, the player will be able to justify the family's decision to go West.
+- By the end of the game, the player will deduce that Native Americans had a different way of life, but were not enemies. 
 
 ## Prerequisite Knowledge
 
-The player, at the least, will need to have some experience with addition and subtraction. As the difficulty increases however, skills in both multiplication and division will also be needed. 
+In order to play the game, the player does not need to know anything beforehand. It would probably be useful to have been exposed to the way of life during the time period and Native Americans before playing, but even if not, the game should still be able to achieve its learning objectives.
 
 ## Assessment Measures
 
-The learning will be accessed by the player’s score. The score will be directly related to how far the car gets. The distance the car travels is dependent on the players ability to quickly and correctly solve the problem presented. 
+The learning can be assessed by giving the students a couple of short answer and multiple choice questions. 
 
 # What sets this project apart?
 
-- Kids love driving games with some form of a score.
-- Kids love to progress through a game by unlocking new items (in this case, cars).
-- Kids will strengthen their knowledge of what was taught in class.
-- Kids will be motivated to get the correct answers because it will be the only way to get currency for new items.
+- Unique learning objectives
+- Exposure of the different elements of the time period through mini games
+- Inspiring story of a poor family striving for a better opportunity
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-This will be a one player game. The player select options using the mouse and change the direction of their car using the keyboard.
+This will be a one player game. Every mini game will expose the player to something new relevant to the time period and task them to do something different. 
 
 ## Player Modes
 
-- Main Menu: This is where the player selects their difficulty and starts their game.
-- Store Menu: This is where the player will be able to buy new vehicles to use in game.
-- Game: This is where the player actually drives the car for as long as they can without wrecking it.
-- Game Over Menu: This is the menu that shows when the player wrecks his or her car, and the player will be able to either play again or go back to the main menu.  
+- Main Menu: This is where the player starts the game.
+- Transitions: Scenes between the mini games filling in the gaps between the family's adventures. Will be useful for telling the story.
+- Game Map: Players will select points on the U.S. map to progress through the story and see the family's journey so far.
+- Mini game 1: Hunting enough beavers in order to get enough money for the family's journey West.
+- Mini game 2: Sailing across the Mississipi river while trying to avoid obstacles.
+- Mini game 3: Plant corn for Native Americans with the intention of teaching them how to farm. Then keep animals away from it.
+- Mini game 4: Gather enough gold in a flowing stream to give the family the opportunity they never had before.
+- Game over: Will show the final outcome of the family's journey.
 
 # Gameplay Objectives
 
-- Solidify learned knowledge:
-    - Description: Get the right answers by driving through the correct option in order to practice learned material.
-    - Alignment: This aligns with the learning objective because students will actively practice what they were taught in class.
-- High Score:
-    - Description: Increase your score by driving for as long as possible without wrecking the car.
-    - Alignment: This aligns with the learning objective because it would motivate players to practice what they have been taught in real life in order to be better at the game.
-- Unlockables:
-    - Description: Unlock new items in the store by getting currency. Currency will be earned for every correct answer the player drives through.
-    - Alignment: This aligns with the learning objective because it would motivate players to play the game more, knowing that there is an incentive of unlocking new vehicles.
+- Expose players to various aspects of life during the time period:
+    - Description: By having the different mini games, players will get to virtually experience some elements of life that were present in the past.
+    - Alignment: This aligns with all of the learning objectives because all of the mini games will allow the players to draw conclusions on the time period.
+- Tell a story:
+    - Description: By having the players progress through the game they will be exposed to an inspiring story of a family looking for a better life.
+    - Alignment: This will at the very least touch on 4 of the 5 learning objectives. 
 
 # Procedures/Actions
 
-The user can press the left and right arrow button to move the car. They can also pause with the escape button.
+Each game will have a different control scheme, but they will all use either the mouse, or arrow keys.
 
 # Rules
 
-- If the player drives into the wrong answer that counts as a hit.
-- Three hits means the player has wrecked the car and the game is over.
-- If the player drives through the correct answer, they will earn currency to use in the store.
-- Problems will be randomly generated.
+- The mini games unlock as the story progresses 
+- If a player fails the mini game, they must redo it until they get through it
 
 # Objects/Entities
 
-- The given problem
-- The answer options
-- Buttons for the menus
-- Layout of the menus
-- The car
-- The road
-- Other cars/objects on the road to avoid
+- Main menu
+- U.S. map with points
+- Scenes of the story
+- Mini game backgrounds
+- Mini game objects
+- Characters
+- Dialog
 
 
 ## Core Gameplay Mechanics (Detailed)
 
-- Driving: Use the right and left arrow keys to drive the car. The background will be moving, making it seem like the car is going forward.
-- Score: Score will be dependent on how long the player can drive the car without wrecking it.
-- Acquiring Currency: The player will acquire currency everytime they drive through a correct answer.
-- Spending currency: Currency can be used to buy new vehicles in the store.
-- Game Over: When the player hits an obstacle(incorrect answer) 3 times the game will be over. A popup will appear notifying the player of their score and total acquired currency. They will have the option of restarting the game or going to the main menu.
-- Problems/Answers: The problems will be generated randomly. The chosen difficulty will determine the types of problems. One of the answers will be correct and the others will not, but they will be relatively believable. 
-- Pace of the game: The game will start off slow. Approximately 15 - 20 seconds between problems. However, as the player continuously answers the questions, the pace will increase to the point where the player will need to be sharp and fully concentrated in order to avoid wrecking the car.
-- Difficulty: There will be 3 settings - easy, medium, and hard. Easy will only include addition and subtraction problems. Medium will include addition, subtraction, and multiplication. Hard will be like medium, but it will also add division problems.
-- Tutorial: There will be an option on the main menu to run through a tutorial. The tutorial will inform the player how to play.
+- Progression through the Game: Beat one mini game (stage of the story) to unlock another. In order to beat the game, the player must beat all 4 mini games and finish the story. The new mini games will be selectable on the map of the journey.
+- Failure: The player needs to achieve each mini game's objective in order to pass the game. If they do not, they must restart the mini game.
+  - Failure in mini game 1: Failing to capture enough beavers.
+  - Failure in mini game 2: Crashing the boat into an obstacle.
+  - Failure in mini game 3: Failing from keeping the animals away from the crops.
+  - Failure in mini game 4: Failing to collect enough gold.
+- Telling the story: There will be scenes in between mini games to fill in the gaps and make the story cohesive.
+- Mini game 1: Capture enough beavers to get enough money for the Journey West. Click on the beavers as they show on screen.
+- Mini game 2: Sail down the Mississipi River while avoiding other obstacles such as ships and rocks.
+- Mini game 3: Plant a crop and protect it from domestic animals while it grows. Click on the animals to scare them away.
+- Mini game 4: Move a pan left to right with the intention of collecting gold. Use the arrow keys.
 
     
 ## Feedback
 
-- If the player drives through the correct answer, the number will highlight green. 
-- If the player drives through the wrong answer, the number will highlight red.
-- The score will act as a long term indicator of the player’s improvement. As the player gets better with the arithmetic, their score will progressively increase.
+- The player will be able to see their progress using the U.S. map and the points which are unlocked on the map.
+- Whether the game succeeded at achieving the learning objectives will not directly be tested through the game.
 
 # Story and Gameplay
 
 ## Presentation of Rules
 
-There will be a tutorial for the players to go through. It will show them which buttons to press to drive the car and point to objects of focus like the score, currency, and problems/answers.
+Since the mini games will be relatively simple and intuitive there will be a quick tutorial before the mini game fully initiates.
 
 ## Presentation of Content
 
-The player will learn through repetition. By seeing similar problems over and over again, the player will naturally develop a better feel for the arithmetic and value of the numbers.
+By playing the mini games and going through the story, the player should be able to draw their own conclusions and be able to achieve the learning objectives.
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+In the late 1840's a family's home burns down and they can't afford the repairs or buy a new one, so they head West in search of opportunity. Along their journey, they hunt some beavers to get enough money for the whole journey. They take a train, but are forced to stop at the Mississipi River. They sail across the river and run into Native Americans. In exhange for horses, the family teaches the Native Americans how to farm. When they finally reach the West Coast (California), their hardship pays off because they find enough gold in a stream to give them the life they could only dream of.
 
 ## Storyboarding
 
