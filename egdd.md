@@ -40,8 +40,8 @@ Players will get to experience the life of a poor family traveling west in the l
 
 ## Learning Domains
 
--Migration West in the 1800's 
--Idea of Manifest Destiny
+  - Migration West in the 1800's 
+  - Idea of Manifest Destiny
 
 ## Target Audiences
 
@@ -152,11 +152,7 @@ By playing the mini games and going through the story, the player should be able
 
 ## Story (Brief)
 
-<<<<<<< HEAD
 In the late 1840's a family's home burns down and they can't afford the repairs or buy a new one, so they head West in search of opportunity. Along their journey, they hunt some beavers to get enough money for the whole journey. They take a train, but are forced to stop at the Mississipi River. They sail across the river and run into Native Americans. In exhange for horses, the family teaches the Native Americans how to farm. When they finally reach the West Coast (California), their hardship pays off because they find enough gold in a stream to give them the life they could only dream of.
-=======
-Players use the arrow keys to maneuver their vehicle into the correct answer to the problem presented at the top of the screen. The player also must avoid the cones and other obstacles along the track. If the player collides with the incorrect answer, the car suffers a hit (one flat tire). There are 3 lives until the car can no longer drive and the game is over.  
->>>>>>> 49fe0f60aadbce866d8627862bc5b91ade3ae1b2
 
 ## Storyboarding
 
