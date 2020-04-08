@@ -163,28 +163,36 @@ In the late 1840's a family's home burns down and they can't afford the repairs 
 
 ## Aesthetics
 
-The game will be similar in aesthetics to subway surfer. We want it to be visually appealing with colors that are not too harsh (i.e a black and white game with red numbers). In terms of gameplay it will be most similar to ‘Cars’ which is another top down 2d driving game in which the player avoids the obstacles on the road for as long as possible.
+The game will be similar in aesthetics to subway surfer. We want it to be visually appealing with colors that are not too harsh (i.e a black and white game with red numbers). In terms of gameplay it will play similar to an RPG, with mini side-scroll and 'click to interact' type games mixed in to give it a fun twist.
 
 
 ## Graphical
 
 - Characters List
-  - Car: Top view of the car the player will be driving.
+  - The character's family
+  - the beavers
+  - the Native Americans
+  - the other Gold-rushers
+  - the animals eating the crops
+
 - Textures:
-  - Font for the problems: Unknown at this time 
-  - Font for the answers: Unknown at this time
+  - Font for the game text: something western or old-fashioned.
+  - Font for the answers: same as above
 - Environment Art/Textures:
-  - Background: The background will be of a highway tile sprite.
+  - Background: The backgrounds will change depending on the minigame. Most likely I will draw these backgrounds as I enjoy the art side of the project.
 
 
 ## Audio
 
 - Music List (Ambient sound)
-  - Menus: Music that is unknown at this time.
-  - In game: Different music that is unknown at this time.
+  - Menus: Something that fits with the western theme.
+  - In game: Music will change depending on the mini-game.
 - Sound List (SFX)
-  - Driving through the correct answer: Some form of coin/money sound.
-  - Driving through the wrong answer: Some form of wreck sound.
+  - sounds for the minigames
+    - water
+    - collisions
+    - soil rustling
+    - animal noises
 
 
 # Metadata
