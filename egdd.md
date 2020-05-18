@@ -23,12 +23,9 @@ Players will get to experience the life of a poor family traveling west in the l
 - Mini game 2:
   - Sail a boat using the arrow keys
   - Crashing into obstacles will damage the boat
+  - Collect the cargo
   - Obstacles will float down vertically
-- Mini game 3:
-  - Crops will grow over time
-  - Animals will eat the crops
-  - Click on the animals to scare them away from the crops
-- Mini game 4:
+- Mini game 3 :
   - Use the right and left arrow keys to move a pan
   - Gold and other debris will flow down a stream
   - When a piece of gold collides with the pan it will be collected
@@ -86,10 +83,11 @@ This will be a one player game. Every mini game will expose the player to someth
 - Transitions: Scenes between the mini games filling in the gaps between the family's adventures. Will be useful for telling the story.
 - Game Map: Players will select points on the U.S. map to progress through the story and see the family's journey so far.
 - Mini game 1: Hunting enough beavers in order to get enough money for the family's journey West.
-- Mini game 2: Sailing across the Mississipi river while trying to avoid obstacles.
-- Mini game 3: Plant corn for Native Americans with the intention of teaching them how to farm. Then keep animals away from it.
+- Mini game 2: Sailing across the Mississipi river while trying to avoid obstacles, and collecting supplies.
 - Mini game 4: Gather enough gold in a flowing stream to give the family the opportunity they never had before.
+- Store: there is a store for players to buy a house at the end of the game.
 - Game over: Will show the final outcome of the family's journey.
+
 
 # Gameplay Objectives
 
@@ -126,12 +124,10 @@ Each game will have a different control scheme, but they will all use either the
 - Failure: The player needs to achieve each mini game's objective in order to pass the game. If they do not, they must restart the mini game.
   - Failure in mini game 1: Failing to capture enough beavers.
   - Failure in mini game 2: Crashing the boat into an obstacle.
-  - Failure in mini game 3: Failing from keeping the animals away from the crops.
   - Failure in mini game 4: Failing to collect enough gold.
 - Telling the story: There will be scenes in between mini games to fill in the gaps and make the story cohesive.
 - Mini game 1: Capture enough beavers to get enough money for the Journey West. Click on the beavers as they show on screen.
 - Mini game 2: Sail down the Mississipi River while avoiding other obstacles such as ships and rocks.
-- Mini game 3: Plant a crop and protect it from domestic animals while it grows. Click on the animals to scare them away.
 - Mini game 4: Move a pan left to right with the intention of collecting gold. Use the arrow keys.
 
     
@@ -173,7 +169,6 @@ The game will be similar in aesthetics to subway surfer. We want it to be visual
   - the beavers
   - the Native Americans
   - the other Gold-rushers
-  - the animals eating the crops
 
 - Textures:
   - Font for the game text: something western or old-fashioned.
