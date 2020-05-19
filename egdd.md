@@ -2,7 +2,7 @@
 
 ## Elevator Pitch
 
-Players will get to experience the life of a poor family traveling west in the late 1840's in search of a better opportunity. The goal of the game is to give the player the feeling of what it may have been like to live during that time period through various mini games. There are not many other similar games regarding Manifest Destiny, but the ones that actually exist target an older audience and place a greater emphasis of the hardships of the time.
+The purpose of our game is for players to experience the life of a family traveling west in the late 1840's in search of a better opportunity. The players should get a sense of what it may have been like to live during that time through various scenes and mini games producing a campaign-like experience. This game hopes to teach players why people migrated west, and how life today differs from life back then. There are not many other similar games regarding Manifest Destiny, but the ones that exist target an older audience and place a greater emphasis on the hardships of the time.
 
 ## Influences (Brief)
 - Oregon Trail
@@ -19,19 +19,21 @@ Players will get to experience the life of a poor family traveling west in the l
 
 - Mini game 1:
   - Use the mouse to catch beavers
-  - Beavers move across the screen
+  - Beavers and other animals randomly pop up on the screen
+  - Clicking on the other animals risks scaring away the beavers
 - Mini game 2:
-  - Sail a boat using the arrow keys
+  - Sail a boat using mouse
   - Crashing into obstacles will damage the boat
-  - Collect the cargo
   - Obstacles will float down vertically
+  - 3 crashes and the player must restart the mini game
 - Mini game 3 :
-  - Use the right and left arrow keys to move a pan
+  - Use the mouse to move a pan
   - Gold and other debris will flow down a stream
   - When a piece of gold collides with the pan it will be collected
+  - When debris hits the pan it disables it for a short period of time
 - General
   - Select point on map to start level
-  - Progress through game be beating the mini games
+  - Progress through game by beating the mini games
 
 # Learning Aspects
 
@@ -55,11 +57,10 @@ Players will get to experience the life of a poor family traveling west in the l
 - By the end of the game, the player will be able to identify how life was different back then compared to today.
 - By the end of the game, the player will discover some of the opportunities of the time period.
 - By the end of the game, the player will be able to justify the family's decision to go West.
-- By the end of the game, the player will deduce that Native Americans had a different way of life, but were not enemies. 
 
 ## Prerequisite Knowledge
 
-In order to play the game, the player does not need to know anything beforehand. It would probably be useful to have been exposed to the way of life during the time period and Native Americans before playing, but even if not, the game should still be able to achieve its learning objectives.
+In order to play the game, the player does not need to know anything beforehand. It would probably be useful to have been exposed to the way of life during the time period, but even if not, the game should still be able to achieve its learning objectives.
 
 ## Assessment Measures
 
@@ -82,9 +83,9 @@ This will be a one player game. Every mini game will expose the player to someth
 - Main Menu: This is where the player starts the game.
 - Transitions: Scenes between the mini games filling in the gaps between the family's adventures. Will be useful for telling the story.
 - Game Map: Players will select points on the U.S. map to progress through the story and see the family's journey so far.
-- Mini game 1: Hunting enough beavers in order to get enough money for the family's journey West.
-- Mini game 2: Sailing across the Mississipi river while trying to avoid obstacles, and collecting supplies.
-- Mini game 4: Gather enough gold in a flowing stream to give the family the opportunity they never had before.
+- Mini game 1: Hunting enough beavers in order to get enough money for the family's journey west.
+- Mini game 2: Sailing across the Mississipi river while trying to avoid obstacles.
+- Mini game 3: Gather enough gold in a flowing stream to give the family the opportunity they never had before.
 - Store: there is a store for players to buy a house at the end of the game.
 - Game over: Will show the final outcome of the family's journey.
 
@@ -120,15 +121,15 @@ Each game will have a different control scheme, but they will all use either the
 
 ## Core Gameplay Mechanics (Detailed)
 
-- Progression through the Game: Beat one mini game (stage of the story) to unlock another. In order to beat the game, the player must beat all 4 mini games and finish the story. The new mini games will be selectable on the map of the journey.
+- Progression through the Game: Beat one mini game (stage of the story) to unlock another (supposedly). In order to beat the game, the player must beat all 3 mini games and finish the story. The new mini games will be selectable on the map of the journey.
 - Failure: The player needs to achieve each mini game's objective in order to pass the game. If they do not, they must restart the mini game.
   - Failure in mini game 1: Failing to capture enough beavers.
-  - Failure in mini game 2: Crashing the boat into an obstacle.
+  - Failure in mini game 2: Crashing the boat into 3 obstacles.
   - Failure in mini game 4: Failing to collect enough gold.
 - Telling the story: There will be scenes in between mini games to fill in the gaps and make the story cohesive.
-- Mini game 1: Capture enough beavers to get enough money for the Journey West. Click on the beavers as they show on screen.
-- Mini game 2: Sail down the Mississipi River while avoiding other obstacles such as ships and rocks.
-- Mini game 4: Move a pan left to right with the intention of collecting gold. Use the arrow keys.
+- Mini game 1: Capture enough beavers to get enough money for the journey west. Click on the beavers as they show on screen.
+- Mini game 2: Sail down the Mississipi River while avoiding other obstacles such as rocks.
+- Mini game 4: Move a pan up and down with the intention of collecting gold. Use the mouse.
 
     
 ## Feedback
@@ -148,7 +149,7 @@ By playing the mini games and going through the story, the player should be able
 
 ## Story (Brief)
 
-In the late 1840's a family's home burns down and they can't afford the repairs or buy a new one, so they head West in search of opportunity. Along their journey, they hunt some beavers to get enough money for the whole journey. They take a train, but are forced to stop at the Mississipi River. They sail across the river and run into Native Americans. In exhange for horses, the family teaches the Native Americans how to farm. When they finally reach the West Coast (California), their hardship pays off because they find enough gold in a stream to give them the life they could only dream of.
+In the late 1840's a family's home burns down and they can't afford the repairs or buy a new one, so they head West in search of opportunity. Along their journey, they hunt some beavers to get enough money for the whole journey. They take a train, but are forced to stop at the Mississipi River. They sail across the river and eventually run into a squatter. They help repair the squatter's wagon and in exhange, get horses. When they finally reach the West Coast (California), their hardship pays off because they find enough gold in a stream to give them the life they could only dream of.
 
 ## Storyboarding
 
@@ -166,9 +167,9 @@ The game will be similar in aesthetics to subway surfer. We want it to be visual
 
 - Characters List
   - The character's family
-  - the beavers
-  - the Native Americans
-  - the other Gold-rushers
+  - The beavers
+  - Squatter Thomas
+  - Merchant
 
 - Textures:
   - Font for the game text: something western or old-fashioned.
